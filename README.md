@@ -3,8 +3,7 @@
 ## 🤓 Course overview and learning outcomes 
 
 The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform.
-
-## :octocat: Git and GitHub
+cat: Git and GitHub
 
 **Git is a distributed Version Control System (VCS) that helps track changes as you work on new software development projects.** Git tracks the changes you make so you always have a record of what you’ve worked on and you can easily revert back to an older version of your code if need be. It also makes working with others easier—groups of people can work together on the same project and merge their changes into one final source! 
 
